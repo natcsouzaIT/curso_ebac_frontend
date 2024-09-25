@@ -1,0 +1,31 @@
+<html><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTMLdoReact</title>
+</head>
+<body>
+    <div>
+        <header>
+            <h1>"Introdução ao HTML"</h1>
+        </header> 
+        <section>
+            <p1>
+            "As tags HTML são muito importantes"
+            </p1>
+            <ul>
+                <li>
+                1
+                </li>
+                <li>
+                2
+                </li>    
+            </ul>
+        </section>
+        <footer>
+            "Desenvolvido por Natália de Castro"
+        </footer>
+    </div>
+</body>
+</html>
